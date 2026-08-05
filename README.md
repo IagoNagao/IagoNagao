@@ -2,7 +2,7 @@
 
 ## 🚀 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,nodejs,python,c,cs,mysql,git,github)](https://skillicons.dev)
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)
